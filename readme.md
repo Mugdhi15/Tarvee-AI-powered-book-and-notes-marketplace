@@ -94,6 +94,7 @@ Media Storage (Local)
    ↓
 AI Services (OCR + NLP) [Future]
 
+system architecture.png
 
 ```
 
