@@ -95,8 +95,9 @@ Media Storage (Local)
 AI Services (OCR + NLP) [Future]
 
 ```
-![alt text](system architecture.png)
 ---
+
+![alt text](system_architecture.png)
 
 ## 📁 Folder Structure
 
@@ -190,4 +191,5 @@ Frontend will be available at:
 - Horizontal scaling with load balancers  
 
 ---
+
 
