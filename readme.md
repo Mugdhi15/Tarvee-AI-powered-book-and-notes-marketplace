@@ -94,9 +94,8 @@ Media Storage (Local)
    ↓
 AI Services (OCR + NLP) [Future]
 
-![alt text](system architecture.png)
 ```
-
+![alt text](system architecture.png)
 ---
 
 ## 📁 Folder Structure
