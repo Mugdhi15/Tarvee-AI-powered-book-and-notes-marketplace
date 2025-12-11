@@ -93,6 +93,8 @@ Database (PostgreSQL / SQLite)
 Media Storage (Local)
    ↓
 AI Services (OCR + NLP) [Future]
+
+
 ```
 
 ---

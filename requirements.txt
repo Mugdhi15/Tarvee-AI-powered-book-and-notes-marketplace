@@ -1,0 +1,18 @@
+Django==5.0.3
+djangorestframework==3.15.1
+django-cors-headers==4.3.1
+
+Pillow==10.3.0            # for image uploads
+python-dotenv==1.0.1      # load environment variables
+
+# Database (uncomment if using PostgreSQL)
+# psycopg2-binary==2.9.9
+
+# For future AI/ML features
+numpy==1.26.4
+scikit-learn==1.4.1
+transformers==4.39.3
+sentence-transformers==2.6.0
+
+# Optional utilities
+requests==2.31.0
